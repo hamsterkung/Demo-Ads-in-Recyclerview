@@ -80,6 +80,9 @@ public class MainActivity extends AppCompatActivity {
         movie = new Movie("Guardians of the Galaxy", "Science Fiction & Fantasy", "2014");
         movieList.add(movie);
 
+        movie = new Movie("Guardians of the Galaxy2", "Science Fiction & Fantasy", "2016");
+        movieList.add(movie);
+
         mAdapter.notifyDataSetChanged();
     }
 }
