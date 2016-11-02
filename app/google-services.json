@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375778746887",
+    "firebase_url": "https://testads-1039a.firebaseio.com",
+    "project_id": "testads-1039a",
+    "storage_bucket": "testads-1039a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375778746887:android:dfdde4ed8ff368ca",
+        "android_client_info": {
+          "package_name": "com.siamsport.android.testads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375778746887-o5hr4hqd9gihmqhaih1tjjsgtlull3r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siamsport.android.testads",
+            "certificate_hash": "6C649A5A54F3658D7E44E5B309BC8D3321E9709A"
+          }
+        },
+        {
+          "client_id": "375778746887-ndg1vufm6ipd3tn0hbpbvpait7q58esr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRsQdkT1C018YpCeH4A5-VmHl7OEn-h4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375778746887-ndg1vufm6ipd3tn0hbpbvpait7q58esr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
